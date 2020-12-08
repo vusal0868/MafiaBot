@@ -63,7 +63,7 @@ ROLE_GREETING = {
                           "However, you have to remember that the cooperation with other mafiosi is crucial for you.",
                           "Good luck, Mafioso, and let the dark forces prevail!"])}
 
-updater = Updater(Token=)
+updater = Updater(Token==)
 dispatcher = updater.dispatcher
 
 
