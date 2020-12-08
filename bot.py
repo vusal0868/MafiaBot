@@ -63,7 +63,7 @@ ROLE_GREETING = {
                           "However, you have to remember that the cooperation with other mafiosi is crucial for you.",
                           "Good luck, Mafioso, and let the dark forces prevail!"])}
 
-updater = Updater(token=1418223269:AAGdILKIl2MGAE1PP_kNOcO5sPUPb7n-zIo)
+updater = Updater(1418223269:AAGdILKIl2MGAE1PP_kNOcO5sPUPb7n-zIo)
 dispatcher = updater.dispatcher
 
 
